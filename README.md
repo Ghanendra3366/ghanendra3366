@@ -270,10 +270,15 @@ AUTOMATION             →  Python scripting · Bash automation · NLP-powered t
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghanendra3366&theme=tokyonight&hide_border=true" />
 
+</div>
+## ` ` Leetcode Analytics
+<div align="center">
+
 <br/>
 
 [![LeetCode Card](https://leetcard.jacoblin.cool/Ghanendra?theme=tokyonight)](https://leetcode.com/u/Ghanendra/)
 
+    
 </div>
 
 ---
