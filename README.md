@@ -300,7 +300,7 @@ AUTOMATION             →  Python scripting · Bash automation · NLP-powered t
 <table>
   <tr>
     <td>🧩</td>
-    <td><b>400+ LeetCode Problems Solved</b></td>
+    <td><b>500+ LeetCode Problems Solved</b></td>
     <td>Problem-solving directly applicable to threat hunting and SIEM rule development</td>
   </tr>
   <tr>
