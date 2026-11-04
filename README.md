@@ -48,7 +48,6 @@ profile = {
     "available"  : "Immediately"
 }
 ```
-
 ---
 
 ## ` ` Technical Arsenal
