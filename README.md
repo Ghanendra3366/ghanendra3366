@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- HERO BANNER — terminal-style identity bar -->
 ```
 ╔══════════════════════════════════════════════════════════════════╗
