@@ -3,7 +3,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║  ghanendra@soc:~$ whoami                                         ║
-║  > Cybersecurity Analyst · SOC L1 · Security Engineer           ║
+║  > Cybersecurity Analyst · SOC L1 · Security Engineer            ║
 ║  ghanendra@soc:~$ cat mission.txt                                ║
 ║  > Detect. Contain. Respond. Automate.                           ║
 ╚══════════════════════════════════════════════════════════════════╝
