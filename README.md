@@ -1,368 +1,227 @@
+<!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
-<!-- HERO BANNER — terminal-style identity bar -->
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  ghanendra@soc:~$ whoami                                         ║
-║  > Cybersecurity Analyst · SOC L1 · Security Engineer            ║
-║  ghanendra@soc:~$ cat mission.txt                                ║
-║  > Detect. Contain. Respond. Automate.                           ║
-╚══════════════════════════════════════════════════════════════════╝
-```
 
-# Ghanendra Tiwari
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0A0F2C,50:0A66C2,100:00C8FF&height=260&section=header&text=Ghanendra%20Tiwari&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%C2%B7%20Cybersecurity%20Analyst%20%C2%B7%20SOC%20L1&descSize=19&descAlignY=60" width="100%" alt="header"/>
 
-**`Security Operations · Threat Detection · VAPT · Python Automation`**
+<a href="https://my-portfoliyo-azure.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=00C8FF&center=true&vCenter=true&width=760&height=50&lines=Hi+%F0%9F%91%8B+I'm+Ghanendra+%E2%80%94+I+build+it+%26+I+break+it;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+PostgreSQL;SOC+L1+%7C+VAPT+%7C+Palo+Alto+Firewall+%7C+SIEM;Detect.+Contain.+Respond.+Automate.;Open+to+SDE+%26+SOC+Analyst+roles+%F0%9F%9A%80" alt="Typing SVG"/>
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=600&lines=SOC+Analyst+%7C+Threat+Hunter+%7C+Security+Builder;SIEM+%7C+VAPT+%7C+Network+Security+%7C+Forensics;Turning+packet+captures+into+incident+reports;Building+tools+that+make+analysts+faster)](https://git.io/typing-svg)
+<br/>
 
-<br>
+<a href="https://www.linkedin.com/in/ghanendra-tiwari-5368a5304"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://my-portfoliyo-azure.vercel.app/"><img src="https://img.shields.io/badge/3D_Portfolio-Visit-FF6B35?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Ghanendra/"><img src="https://img.shields.io/badge/LeetCode-550%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/ghanendratiwari7"><img src="https://img.shields.io/badge/HackerRank-Badges-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="mailto:ghanendratiwari7@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghanendra-tiwari-5368a5304)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ghanendra3366)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://my-portfoliyo-azure.vercel.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ghanendra/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ghanendratiwari7)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanendratiwari7@gmail.com)
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ghanendra3366&color=00C8FF&style=for-the-badge&label=PROFILE+VIEWS" alt="views"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Work-00C853?style=for-the-badge&logo=statuspage&logoColor=white" alt="open to work"/>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## ` ` About
+<!-- ═══════════════ TERMINAL ═══════════════ -->
+## 🖥️ `whoami`
 
-> *I don't just use security tools — I understand why attackers choose specific vectors and engineer countermeasures that actually work.*
-
-CS undergrad at GLA University, Mathura, building depth in **Security Operations**, **network threat detection**, and **security automation** — not by reading textbooks alone, but by simulating real attack scenarios in isolated labs and building the defensive tools that neutralize them.
-
-I've engineered RSA-2048 encrypted storage systems, scripted iptables-based DDoS countermeasures, built autonomous log analyzers that mimic SIEM alert engines, and assessed full-stack web applications against OWASP Top 10. My goal is straightforward: **join a SOC L1 team where threat detection, log correlation, and incident response are the daily language**.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1200&color=39FF14&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=130&lines=ghanendra%40soc%3A~%24+whoami;B.Tech+CSE+%C2%B7+GLA+University+%C2%B7+2024%E2%80%932028;ghanendra%40soc%3A~%24+cat+mission.txt;Build+secure+software.+Defend+real+networks.+Automate+the+boring+stuff." alt="terminal"/>
+</div>
 
 ```python
-profile = {
-    "role"       : "SOC Analyst (L1) · Cybersecurity Analyst",
-    "location"   : "Mathura, Uttar Pradesh, India",
-    "open_to"    : ["SOC L1", "Junior Cybersecurity Analyst", "Remote / Delhi NCR / Agra"],
-    "education"  : "B.Tech Computer Science — GLA University (2024–2028)",
-    "focus"      : ["Threat Detection", "SIEM", "VAPT", "Security Automation"],
-    "languages"  : ["English", "Hindi"],
-    "available"  : "Immediately"
-}
-```
----
-
-## ` ` Technical Arsenal
-
-<details>
-<summary><b>🔵 SIEM & Log Analysis</b></summary>
-<br>
-
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
-![QRadar](https://img.shields.io/badge/QRadar-052FAD?style=flat-square&logo=ibm&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🔴 Network Security & Threat Detection</b></summary>
-<br>
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-FF0000?style=flat-square&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-333333?style=flat-square&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🟠 VAPT & Web Application Security</b></summary>
-<br>
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🟣 Malware Analysis & Digital Forensics</b></summary>
-<br>
-
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=flat-square&logoColor=white)
-![JADX](https://img.shields.io/badge/JADX-Android_RE-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-Digital_Forensics-4A4A4A?style=flat-square&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🟢 Programming & Scripting</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>⚙️ DevOps, Cloud & Infrastructure</b></summary>
-<br>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Security-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_Security-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-</details>
-
----
-
-## ` ` Featured Projects
-
-> Projects ranked by technical depth and security relevance.
-
----
-
-### ⭐ Security & VAPT Tools Suite
-**`Python · Kali Linux · Wireshark · Nmap · iptables · OpenSSL · Docker`**
-
-The most comprehensive project in my portfolio — a suite of offensive and defensive security tools built to replicate real SOC analyst workflows.
-
-| Component | What it does |
-|---|---|
-| 🔐 **Secure File Storage** | RSA-2048 + SSL/TLS encrypted storage — mirrors enterprise data-at-rest and in-transit protection |
-| 🔍 **Keylogger Detection & Credential Analyzer** | Monitors endpoint vulnerabilities, assesses password hygiene, outputs structured remediation reports |
-| 💥 **Attack Simulation Lab** | MITM, DNS spoofing, DDoS flood scenarios in isolated Kali sandbox; scripted iptables countermeasures |
-| 📡 **Packet Capture & Port Scan Engine** | TCP/IP analysis via Wireshark + Nmap OS fingerprinting — replicates SOC L1 network monitoring workflow |
-
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ghanendra3366/[ADD-REPO-NAME])
-
----
-
-### ⭐ Windows Endpoint Security Monitoring System
-**`Python · Windows API · Ghidra · Autopsy · JADX · Bash`**
-
-A low-level endpoint monitoring framework built on Windows APIs — aligned with EDR design principles.
-
-- Built OS-internals aware host monitoring with attacker TTP detection capability
-- Designed encrypted log storage with admin access controls for telemetry integrity (directly applicable to SIEM ingestion)
-- Documented IOCs, behavioral indicators, and forensic investigation procedures consistent with SOC playbooks
-
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ghanendra3366/[ADD-REPO-NAME])
-
----
-
-### ⭐ AI-Powered Security Automation Suite — Neo & AI Hunter
-**`Python · Java · NLP · Bash · Docker · Git`**
-
-Two automation tools built to simulate SOC playbook automation and reduce MTTD.
-
-- **Neo**: Voice-activated assistant with web scraping, OS command execution, and browser orchestration via NLP
-- **AI Hunter**: Autonomous log processing engine with pattern recognition across system events — simulates SIEM-style alert aggregation
-- Built interactive front ends demonstrating full-stack attack surface awareness (3D carousel, secure login UI)
-
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ghanendra3366/[ADD-REPO-NAME])
-
----
-
-### 🔶 Secure Full-Stack Web App & API Security Assessment
-**`Python · REST API · Burp Suite · OWASP Top 10 · Docker`**
-
-A full-stack e-commerce platform built security-first — then audited.
-
-- 15+ functional modules, 20+ RESTful API endpoints — OWASP Top 10 controls applied throughout
-- Conducted Burp Suite pre-deployment security review — identified and documented reflected XSS and IDOR vulnerabilities
-- Produced a formal penetration test report with remediation findings
-
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ghanendra3366/[ADD-REPO-NAME])
-
----
-
-### 🔷 Premium Fashion E-Commerce Platform
-**`Next.js · TypeScript · Prisma · PostgreSQL · Redis · Docker`**
-
-Full-stack production-ready platform demonstrating end-to-end development from architecture to deployment.
-
-- Secure authentication, role-based access control, vendor/admin modules, payment gateway integration
-- Redis caching, Docker deployment, SEO-optimized storefront — built for scale
-- Demonstrates understanding of web application architecture and production attack surface management
-
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[ADD-YOUR-GITHUB-USERNAME]/[ADD-REPO-NAME])
-
----
-
-### 🔷 Hangries — Restaurant Ordering & Reservation Platform
-**`Next.js · React · Tailwind CSS · MongoDB`**
-
-Full-stack restaurant platform with WhatsApp-integrated ordering, table reservation workflows, and an admin dashboard with real-time order tracking.
-
-[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[ADD-YOUR-GITHUB-USERNAME]/[ADD-REPO-NAME])
-
----
-
-## ` ` Engineering Under the Hood
-
-> What separates a security tool builder from a script kiddie is understanding *why* the attack works.
-
-```
-THREAT MODELING        →  MITRE ATT&CK mapping · IOC identification · attack vector documentation
-NETWORK DEFENSE        →  iptables · UFW · pfSense · IDS/IPS configuration and tuning
-SIEM ENGINEERING       →  log ingestion pipelines · alert aggregation · correlation rule design
-CRYPTOGRAPHY           →  AES, RSA, PKI, SSL/TLS implementation (not just configuration)
-FORENSIC WORKFLOW      →  memory forensics · artifact analysis · chain-of-custody documentation
-SECURE DEVELOPMENT     →  session management · input sanitization · RBAC · OWASP-compliant APIs
-SOC OPERATIONS         →  alert triage · escalation procedures · incident response playbooks
-AUTOMATION             →  Python scripting · Bash automation · NLP-powered tooling
+class Ghanendra:
+    role        = ["Full-Stack Developer", "SOC Analyst (L1)", "Security Builder"]
+    studying    = "B.Tech Computer Science @ GLA University, Mathura (2024–2028)"
+    based_in    = "Aligarh, Uttar Pradesh, India 🇮🇳"
+    leading     = "4-member MERN team · led 5-member Palo Alto Firewall internship team"
+    stack       = ["Next.js", "TypeScript", "React", "Node.js", "MongoDB", "PostgreSQL", "Python", "Java"]
+    security    = ["OWASP Top 10", "Burp Suite", "Wireshark", "Nmap", "Palo Alto Firewall", "iptables"]
+    open_to     = ["SDE / Full-Stack Intern", "SOC L1 / Junior Security Analyst", "Remote", "Relocation"]
+    philosophy  = "Understand how it breaks — only then can you defend it."
 ```
 
----
+<!-- ═══════════════ 3D CONTRIB ═══════════════ -->
+## 🧊 My Contribution Universe (3D)
 
-## ` ` Experience
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+</div>
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  Cybersecurity Analyst — Virtual Job Simulation               ║
-║  Tata Consultancy Services · via Forage      2024 – 2025      ║
-╠═══════════════════════════════════════════════════════════════╣
-║  ▸ End-to-end threat analysis on simulated enterprise         ║
-║    scenarios — vulnerability assessment + IR documentation    ║
-║  ▸ Triaged security log datasets, followed SOC escalation     ║
-║    procedures: evidence collection → impact assessment        ║
-║  ▸ Applied GenAI analytics to extract threat intelligence     ║
-║    from high-volume log environments                          ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## ` ` Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| Cybersecurity Analyst Job Simulation | Tata Consultancy Services · Forage | 2024–2025 |
-| GenAI Data Analytics Job Simulation | Forage | 2024–2025 |
-| Introduction to Cybersecurity | Cisco Networking Academy | 2024 |
-| Cybersecurity Foundation Course | Palo Alto Networks | 2024 |
-| Certified Ethical Hacker (CEH) | Cisco Networking Academy | 2026 |
-| **CompTIA Security+ (SY0-701)** | *Pursuing* | — |
-| **Google Cybersecurity Professional Certificate** | *Pursuing* | — |
-| **TryHackMe SOC Level 1** | *Pursuing* | — |
-| **EC-Council CEH v12** | *Pursuing* | — |
-
----
-
-## ` ` GitHub Analytics
+<!-- ═══════════════ SKILLS ═══════════════ -->
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ghanendra3366&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanendra3366&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+**🌐 Full-Stack**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,mongodb,postgres,redis,prisma&perline=13" /> 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghanendra3366&theme=tokyonight&hide_border=true" />
+**🛠️ Languages & Tools**
+
+<img src="https://skillicons.dev/icons?i=java,py,c,cpp,bash,git,github,docker,linux,aws,azure,threejs,vercel,vscode&perline=14" />
+
+**🔐 Security**
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Palo_Alto_Firewall-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/iptables-Linux_Firewall-333333?style=for-the-badge&logo=linux&logoColor=white"/>
 
 </div>
-## ` ` Leetcode Analytics
-<div align="center">
 
-<br/>
-
-[![LeetCode Card](https://leetcard.jacoblin.cool/Ghanendra?theme=tokyonight)](https://leetcode.com/u/Ghanendra/)
-
-    
-</div>
-
----
-
-## ` ` Currently
-
-```
-🚀  Building    →  Security tooling for automated threat hunting and alert triage
-🧠  Learning    →  CompTIA Security+ (SY0-701) · TryHackMe SOC Level 1
-🔬  Exploring   →  Cloud security (AWS/Azure) · SIEM rule engineering · Threat intelligence platforms
-🎯  Improving   →  LeetCode problem-solving (400+ solved) · Python automation for SOC workflows
-📜  Pursuing    →  First professional SOC L1 / Junior Cybersecurity Analyst role
-```
-
----
-
-## ` ` Achievements
+<!-- ═══════════════ PROJECTS ═══════════════ -->
+## 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td>🧩</td>
-    <td><b>500+ LeetCode Problems Solved</b></td>
-    <td>Problem-solving directly applicable to threat hunting and SIEM rule development</td>
-  </tr>
-  <tr>
-    <td>🏅</td>
-    <td><b>Multi-Discipline HackerRank Badges</b></td>
-    <td>Python · Java · React.js · JavaScript · Problem Solving</td>
-  </tr>
-  <tr>
-    <td>🔐</td>
-    <td><b>4 Independent Security Projects</b></td>
-    <td>VAPT · Endpoint Monitoring · AI Security Automation · Web App Security</td>
-  </tr>
-  <tr>
-    <td>📜</td>
-    <td><b>5 Certifications in Year 1</b></td>
-    <td>Cisco · Palo Alto Networks · TCS Forage — completed within first year of undergrad</td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍽️ Multi-Restaurant Management & Delivery Platform
+`MERN` · `Team Lead (4 members)` · `Ongoing`
+
+Multi-restaurant platform with multiple user views and delivery workflows. I lead development and coordinate the team.
+
+</td>
+<td width="50%" valign="top">
+
+### 👗 Premium Fashion E-Commerce Platform
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Redis` `Docker`
+
+**15+ modules, 20+ REST endpoints**, RBAC, vendor/admin workflows, payment gateway. OWASP Top 10 defenses (SQLi/XSS/CSRF) and Burp Suite assessment.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍔 Hangries — Ordering & Reservation
+`Next.js` `React` `Tailwind` `MongoDB`
+
+Built for a real restaurant: WhatsApp-integrated ordering, table reservations, real-time order tracking, secure admin dashboard.
+
+[🔗 Live → hangriesaligarh.vercel.app](https://hangriesaligarh.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌌 Interactive Portfolio Control Room
+`Next.js 16` `TypeScript` `Three.js` `Vercel Blob`
+
+3D portfolio with voice/photo intro, SEO and private CMS. Signed HttpOnly sessions, rate limits, origin checks, secure headers.
+
+[🔗 Live → my-portfoliyo-azure.vercel.app](https://my-portfoliyo-azure.vercel.app/)
+
+</td>
+</tr>
 </table>
 
----
+### 🛡️ Security & Defense Projects
 
-## ` ` Education
+| Project | Stack | What it does |
+|:--|:--|:--|
+| 🔐 **Secure File Storage** | Python · OpenSSL · Docker | RSA-2048 + SSL/TLS encrypted storage (Aug–Dec 2025) |
+| 🕵️ **Keylogger Detection** | Python · Kali · Wireshark | Endpoint monitoring + credential hygiene analysis (Jan–Apr 2026) |
+| 🖥️ **Windows Endpoint Monitoring** | Windows API · Python · Bash | EDR-style host monitoring, encrypted logs, admin controls |
+| 💥 **Attack Simulation Lab** | Kali · iptables | Isolated MITM / DNS-spoofing / DDoS labs with scripted mitigations |
+| 🧭 **Sentinel Triage Lab** | Next.js · TypeScript | Local risk analysis & alert triage tool (2026) |
+| 🔥 **Palo Alto Routing Project** | Palo Alto Firewall | ISP default route, Trust/Untrust zones, NAT, CLI verification (2026) |
+| 🤖 **Neo** · **AI Hunter** | Python · NLP · Bash | Voice-driven automation · log-pattern analysis engine |
+| 🎠 **3D Carousel** | Java · JS · HTML/CSS | Interactive 3D front-end UI |
 
-**B.Tech Computer Science** — GLA University, Mathura · `2024 – 2028`
+> 📂 All repositories → **[github.com/Ghanendra3366?tab=repositories](https://github.com/Ghanendra3366?tab=repositories)**
 
-*Relevant Coursework:* Data Structures & Algorithms · Computer Networks · Operating Systems · Information Security · Database Management · OOP · Microprocessors
+<!-- ═══════════════ EXPERIENCE ═══════════════ -->
+## 💼 Experience
 
----
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│ 🔥 JOVAC Summer Internship — Advanced Palo Alto Firewall             │
+│    GLA University · Jun – Jul 2026 · Project Team Lead (5 members)   │
+│    ▸ Completed advanced Palo Alto Firewall training                  │
+│    ▸ Led team project: ISP routing, Trust/Untrust zones, NAT, CLI    │
+├──────────────────────────────────────────────────────────────────────┤
+│ 🛡️ Tata / Forage — Cybersecurity & GenAI Data Analytics (Virtual)    │
+│    Jul 2025                                                          │
+│    ▸ Analyzed security logs, documented vulnerability assessments    │
+│    ▸ Wrote incident-response recommendations, applied GenAI analytics│
+└──────────────────────────────────────────────────────────────────────┘
+```
 
-## ` ` The Analyst's Mindset
+<!-- ═══════════════ CERTS ═══════════════ -->
+## 🏅 Certifications
 
-> I approach every system as both builder and attacker.
-> Understanding how something breaks is the only reliable way to know how to defend it.
-> Security isn't a feature you bolt on — it's a discipline you architect in from line one.
+| Certification | Issuer | When |
+|:--|:--|:--|
+| Ethical Hacker | Cisco Networking Academy | Jun 2026 |
+| Networking Basics | Cisco Networking Academy | Nov 2025 |
+| Introduction to Cybersecurity | Cisco Networking Academy | — |
+| Advanced Palo Alto Firewall (JOVAC) | GLA University | Jun–Jul 2026 |
+| Cybersecurity Course | Palo Alto Networks | Aug 2025 |
+| Cybersecurity Analyst Simulation | Tata · Forage | Jul 2025 |
+| GenAI Powered Data Analytics Simulation | Tata · Forage | Jul 2025 |
+| HackerRank — Software Engineer Intern, React, Java, JavaScript, CSS, Problem Solving, Python | HackerRank | 2024–2025 |
 
-I believe the best SOC analysts are the ones who've built what they're defending, broken what they're monitoring, and automated what they're repeating. That's the standard I hold myself to.
+**🎯 In progress:** CompTIA Security+ (SY0-701) · TryHackMe SOC Level 1
 
----
-
-## ` ` Let's Connect
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📊 GitHub Analytics
 
 <div align="center">
 
-**Open to SOC L1 · Junior Cybersecurity Analyst roles**
-**Mathura · Agra · Delhi NCR · Remote · Open to relocation**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ghanendra3366&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanendra3366&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br>
+<img src="https://streak-stats.demolab.com/?user=Ghanendra3366&theme=tokyonight&hide_border=true" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghanendra-tiwari-5368a5304)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B35?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://my-portfoliyo-azure.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanendratiwari7@gmail.com)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghanendra3366&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%"/>
 
-<br>
-
-*"Detect early. Respond fast. Document everything."*
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ghanendra3366&color=00C8FF&style=flat-square&label=Profile+Views)
+<img src="https://github-profile-trophy.vercel.app/?username=Ghanendra3366&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
 
 </div>
 
----
+## 🧩 LeetCode
 
 <div align="center">
-<sub>Built with precision · Ghanendra Tiwari · 2025</sub>
+
+[![LeetCode](https://leetcard.jacoblin.cool/Ghanendra?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/u/Ghanendra/)
+
+</div>
+
+<!-- ═══════════════ NOW ═══════════════ -->
+## 🎯 Currently
+
+```text
+🚀 Building   →  Multi-restaurant MERN platform (team of 4) · security tooling for alert triage
+🧠 Learning   →  CompTIA Security+ · TryHackMe SOC L1 · SIEM rule engineering
+🔬 Exploring  →  Cloud security (AWS/Azure) · Next.js 16 · Three.js
+🏆 Grinding   →  LeetCode 550+ solved · 158-day max streak · Java DSA
+💼 Seeking    →  SDE / Full-Stack internship  ·  SOC L1 / Junior Security Analyst
+```
+
+## 🐍 Snake Eats My Contributions
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghanendra3366/Ghanendra3366/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ghanendra3366/Ghanendra3366/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Ghanendra3366/Ghanendra3366/output/github-snake-dark.svg" width="100%" />
+</picture>
+</div>
+
+<!-- ═══════════════ FOOTER ═══════════════ -->
+<div align="center">
+
+> *"Build it secure. Break it to prove it. Document everything."*
+
+**📍 Aligarh · Mathura · Delhi NCR · Remote — open to relocation**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,50:0A66C2,100:0A0F2C&height=140&section=footer&animation=fadeIn" width="100%"/>
+
 </div>
